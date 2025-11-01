@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore environment
+venv/
+.env/
+
+# Ignore model files and large data
+models/
+data/
