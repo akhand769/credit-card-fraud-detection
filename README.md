@@ -6,7 +6,7 @@ It involves data preprocessing, exploratory data analysis (EDA), model training,
 ---
 
 ## 📂 Project Structure
-
+``` bash
 ├── README.md
 ├── data
 │ ├── creditcard.csv # Raw dataset containing transaction data
@@ -23,7 +23,7 @@ It involves data preprocessing, exploratory data analysis (EDA), model training,
 │ └── model_training.ipynb # Model training and evaluation
 └── requirements.txt # Python dependencies
 
-
+```
 ---
 
 ## 📊 Dataset
