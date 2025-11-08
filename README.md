@@ -8,14 +8,14 @@ It involves data preprocessing, exploratory data analysis (EDA), model training,
 ## 📂 Project Structure
 ``` bash
 ├── README.md
-├── data
+├── data # Not included in git repos
 │ ├── creditcard.csv # Raw dataset containing transaction data
 │ └── processed_data # Preprocessed and split data
 │ ├── X_test.pkl
 │ ├── X_train.pkl
 │ ├── y_test.pkl
 │ └── y_train.pkl
-├── models
+├── models # Not included in git repos
 │ └── random_forest_model.pkl # Trained Random Forest model saved for reuse
 ├── notebooks
 │ ├── EDA.ipynb # Exploratory Data Analysis notebook
