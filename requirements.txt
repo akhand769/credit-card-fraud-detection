@@ -7,8 +7,8 @@ imbalanced-learn
 xgboost
 lightgbm
 shap
-streamlit
 jupyter
 plotly
 gitpython
+joblib
 
