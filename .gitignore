@@ -3,4 +3,7 @@
 
 # Ignore environment
 venv/
-.env/
+
+# Ignore model files and large data
+models/
+data/
